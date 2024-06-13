@@ -1,0 +1,1962 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "101189CD-9716-4E2A-A2DA-92D659822028"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C67034B0-E718-4642-B55C-FFCCA3DB8CFB"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Game/GameBoardVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "351"
+            endingLineNumber = "351"
+            landmarkName = "greenPin1Btn(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F2D70B59-3051-4EC5-995B-F5E474ACAEFF"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Game/GameBoardVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "356"
+            endingLineNumber = "356"
+            landmarkName = "greenPin1Btn(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "901D5A86-6E5F-4551-9749-D76AA2E4B3F0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Game/GameBoardVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "363"
+            endingLineNumber = "363"
+            landmarkName = "greenPin1Btn(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F155B8B1-5699-4AF2-B6FD-244BFCB95BA5"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Game/GameBoardVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "368"
+            endingLineNumber = "368"
+            landmarkName = "greenPin1Btn(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "54DF3AE3-7065-4A4F-86A1-125C24F96CEC"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Game/GameBoardVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "371"
+            endingLineNumber = "371"
+            landmarkName = "greenPin1Btn(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2C84F99A-58F3-4E05-AD19-5F7B473CA40B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Game/GameBoardVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "383"
+            endingLineNumber = "383"
+            landmarkName = "greenPin1Btn(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0538EB9D-0FC1-411B-B26D-D8DAB686F2AA"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Game/GameBoardVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "388"
+            endingLineNumber = "388"
+            landmarkName = "greenPin1Btn(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C815742F-D677-437B-8FCC-D3D087A332DE"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Game/GameBoardVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "389"
+            endingLineNumber = "389"
+            landmarkName = "greenPin1Btn(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BD6A2B3E-A8EE-4BD9-A1E0-3825DA36F90C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Game/GameBoardVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "393"
+            endingLineNumber = "393"
+            landmarkName = "greenPin1Btn(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D55B46E8-7151-4D91-8FD2-5DB347284957"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Game/GameBoardVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "399"
+            endingLineNumber = "399"
+            landmarkName = "greenPin1Btn(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "246A5D1B-371D-4540-9762-DB95BC04568B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Game/GameBoardVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "398"
+            endingLineNumber = "398"
+            landmarkName = "greenPin1Btn(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9BD529CA-1353-4616-AFE0-1C1B32337560"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Game/GameBoardVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "401"
+            endingLineNumber = "401"
+            landmarkName = "greenPin1Btn(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2F146CA0-DAD1-4F2F-957F-A06E9C9BB309"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Game/GameBoardVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "402"
+            endingLineNumber = "402"
+            landmarkName = "greenPin1Btn(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DAB74948-2307-44FB-89A5-CF721573E596"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Game/GameBoardExtension.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "handleGreen1PinMovement(sender:movedVariable:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9E714D84-426E-4228-BC8A-161ACEDBDC57"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Game/GameBoardExtension.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "handleGreen1PinMovement(sender:movedVariable:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E07CE714-0C68-47C0-BF27-50A35800518F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Game/GameBoardExtension.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "handleGreen1PinMovement(sender:movedVariable:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AD90C459-17AC-4C5A-80F2-76FFA0B9D576"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Game/GameBoardExtension.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "handleGreen1PinMovement(sender:movedVariable:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D26C6544-A6BE-460B-B86A-4AECC26E7063"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Game/GameBoardExtension.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "handleGreen1PinMovement(sender:movedVariable:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F66420EB-2652-438D-B1E7-38F3D5D0CB04"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Game/GameBoardExtension.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "handleGreen1PinMovement(sender:movedVariable:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0FD11520-9894-45BA-836C-9678E1CA424B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FourPlayerGameBoardVCExtension.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "handleBlue1PinMovement(sender:movedVariable:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "0FD11520-9894-45BA-836C-9678E1CA424B - b7a9aa1ea561301d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "GameProject.FourPlayerGameBoardVC.handleBlue1PinMovement(sender: __C.UIButton, movedVariable: inout Swift.Bool) -&gt; ()"
+                  moduleName = "GameProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/praveenkumars/Downloads/GameProject%202/FourPlayerGameBoardVCExtension.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "96">
+               </Location>
+               <Location
+                  uuid = "0FD11520-9894-45BA-836C-9678E1CA424B - b7a9aa1ea561301d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "GameProject.FourPlayerGameBoardVC.handleBlue1PinMovement(sender: __C.UIButton, movedVariable: inout Swift.Bool) -&gt; ()"
+                  moduleName = "GameProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/praveenkumars/Downloads/GameProject%202/FourPlayerGameBoardVCExtension.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "156">
+               </Location>
+               <Location
+                  uuid = "0FD11520-9894-45BA-836C-9678E1CA424B - 2bf9cf0d8fd73f1f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "GameProject.FourPlayerGameBoardVC.handleBlue1PinMovement(sender: __C.UIButton, movedVariable: inout Swift.Bool) -&gt; ()"
+                  moduleName = "GameProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/praveenkumars/Downloads/Current%20Game%20Project/FourPlayerGameBoardVCExtension.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "156">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6C11083B-4E97-456F-9992-B04D87970B9B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FourPlayerGameBoardVCExtension.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "handleBlue1PinMovement(sender:movedVariable:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "6C11083B-4E97-456F-9992-B04D87970B9B - b7a9aa1ea5613fdb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "GameProject.FourPlayerGameBoardVC.handleBlue1PinMovement(sender: __C.UIButton, movedVariable: inout Swift.Bool) -&gt; ()"
+                  moduleName = "GameProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/praveenkumars/Downloads/GameProject%202/FourPlayerGameBoardVCExtension.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "256">
+               </Location>
+               <Location
+                  uuid = "6C11083B-4E97-456F-9992-B04D87970B9B - b7a9aa1ea5613fdb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "GameProject.FourPlayerGameBoardVC.handleBlue1PinMovement(sender: __C.UIButton, movedVariable: inout Swift.Bool) -&gt; ()"
+                  moduleName = "GameProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/praveenkumars/Downloads/GameProject%202/FourPlayerGameBoardVCExtension.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "284">
+               </Location>
+               <Location
+                  uuid = "6C11083B-4E97-456F-9992-B04D87970B9B - 2bf9cf0d8fd73edd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "GameProject.FourPlayerGameBoardVC.handleBlue1PinMovement(sender: __C.UIButton, movedVariable: inout Swift.Bool) -&gt; ()"
+                  moduleName = "GameProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/praveenkumars/Downloads/Current%20Game%20Project/FourPlayerGameBoardVCExtension.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "284">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "08054C6A-9D86-4048-AA82-A4E6EE747D1C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FourPlayerGameBoardVCExtension.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "handleBlue1PinMovement(sender:movedVariable:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "08054C6A-9D86-4048-AA82-A4E6EE747D1C - b7a9aa1ea5613f57"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "GameProject.FourPlayerGameBoardVC.handleBlue1PinMovement(sender: __C.UIButton, movedVariable: inout Swift.Bool) -&gt; ()"
+                  moduleName = "GameProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/praveenkumars/Downloads/GameProject%202/FourPlayerGameBoardVCExtension.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "580">
+               </Location>
+               <Location
+                  uuid = "08054C6A-9D86-4048-AA82-A4E6EE747D1C - b7a9aa1ea5613f57"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "GameProject.FourPlayerGameBoardVC.handleBlue1PinMovement(sender: __C.UIButton, movedVariable: inout Swift.Bool) -&gt; ()"
+                  moduleName = "GameProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/praveenkumars/Downloads/GameProject%202/FourPlayerGameBoardVCExtension.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "620">
+               </Location>
+               <Location
+                  uuid = "08054C6A-9D86-4048-AA82-A4E6EE747D1C - 2bf9cf0d8fd73e59"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "GameProject.FourPlayerGameBoardVC.handleBlue1PinMovement(sender: __C.UIButton, movedVariable: inout Swift.Bool) -&gt; ()"
+                  moduleName = "GameProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/praveenkumars/Downloads/Current%20Game%20Project/FourPlayerGameBoardVCExtension.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "620">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EB93520A-AB94-4DF4-BE1C-DF8AEF4DD277"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FourPlayerGameBoardVCExtension.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "handleBlue1PinMovement(sender:movedVariable:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "EB93520A-AB94-4DF4-BE1C-DF8AEF4DD277 - b7a9aa1ea5613ed3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "GameProject.FourPlayerGameBoardVC.handleBlue1PinMovement(sender: __C.UIButton, movedVariable: inout Swift.Bool) -&gt; ()"
+                  moduleName = "GameProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/praveenkumars/Downloads/GameProject%202/FourPlayerGameBoardVCExtension.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "940">
+               </Location>
+               <Location
+                  uuid = "EB93520A-AB94-4DF4-BE1C-DF8AEF4DD277 - b7a9aa1ea5613ed3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "GameProject.FourPlayerGameBoardVC.handleBlue1PinMovement(sender: __C.UIButton, movedVariable: inout Swift.Bool) -&gt; ()"
+                  moduleName = "GameProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/praveenkumars/Downloads/GameProject%202/FourPlayerGameBoardVCExtension.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "688">
+               </Location>
+               <Location
+                  uuid = "EB93520A-AB94-4DF4-BE1C-DF8AEF4DD277 - 2bf9cf0d8fd73dd5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "GameProject.FourPlayerGameBoardVC.handleBlue1PinMovement(sender: __C.UIButton, movedVariable: inout Swift.Bool) -&gt; ()"
+                  moduleName = "GameProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/praveenkumars/Downloads/Current%20Game%20Project/FourPlayerGameBoardVCExtension.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "688">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9AC0A645-CD3C-482B-819C-24C4ABB2C5B1"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FourPlayerGameBoardVCExtension.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "handleBlue1PinMovement(sender:movedVariable:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "9AC0A645-CD3C-482B-819C-24C4ABB2C5B1 - b7a9aa1ea5613e6f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "GameProject.FourPlayerGameBoardVC.handleBlue1PinMovement(sender: __C.UIButton, movedVariable: inout Swift.Bool) -&gt; ()"
+                  moduleName = "GameProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/praveenkumars/Downloads/GameProject%202/FourPlayerGameBoardVCExtension.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "1612">
+               </Location>
+               <Location
+                  uuid = "9AC0A645-CD3C-482B-819C-24C4ABB2C5B1 - b7a9aa1ea5613e6f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "GameProject.FourPlayerGameBoardVC.handleBlue1PinMovement(sender: __C.UIButton, movedVariable: inout Swift.Bool) -&gt; ()"
+                  moduleName = "GameProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/praveenkumars/Downloads/GameProject%202/FourPlayerGameBoardVCExtension.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "1244">
+               </Location>
+               <Location
+                  uuid = "9AC0A645-CD3C-482B-819C-24C4ABB2C5B1 - 2bf9cf0d8fd73d51"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "GameProject.FourPlayerGameBoardVC.handleBlue1PinMovement(sender: __C.UIButton, movedVariable: inout Swift.Bool) -&gt; ()"
+                  moduleName = "GameProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/praveenkumars/Downloads/Current%20Game%20Project/FourPlayerGameBoardVCExtension.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "1244">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4FE5E80F-F6FB-4949-891C-9A5A7054540A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FourPlayerGameBoardVCExtension.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "handleBlue1PinMovement(sender:movedVariable:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "4FE5E80F-F6FB-4949-891C-9A5A7054540A - b7a9aa1ea5613e2d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "GameProject.FourPlayerGameBoardVC.handleBlue1PinMovement(sender: __C.UIButton, movedVariable: inout Swift.Bool) -&gt; ()"
+                  moduleName = "GameProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/praveenkumars/Downloads/GameProject%202/FourPlayerGameBoardVCExtension.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "1692">
+               </Location>
+               <Location
+                  uuid = "4FE5E80F-F6FB-4949-891C-9A5A7054540A - b7a9aa1ea5613dca"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "GameProject.FourPlayerGameBoardVC.handleBlue1PinMovement(sender: __C.UIButton, movedVariable: inout Swift.Bool) -&gt; ()"
+                  moduleName = "GameProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/praveenkumars/Downloads/GameProject%202/FourPlayerGameBoardVCExtension.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "1648">
+               </Location>
+               <Location
+                  uuid = "4FE5E80F-F6FB-4949-891C-9A5A7054540A - 2bf9cf0d8fd73ccc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "GameProject.FourPlayerGameBoardVC.handleBlue1PinMovement(sender: __C.UIButton, movedVariable: inout Swift.Bool) -&gt; ()"
+                  moduleName = "GameProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/praveenkumars/Downloads/Current%20Game%20Project/FourPlayerGameBoardVCExtension.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "1648">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "924A09EB-EE78-4FEF-903A-8C87F0CF0733"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Game/FourPlayerGameBoardVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "261"
+            endingLineNumber = "261"
+            landmarkName = "User1DiceBtn(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "924A09EB-EE78-4FEF-903A-8C87F0CF0733 - 5923755175246bbb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "GameProject.FourPlayerGameBoardVC.User1DiceBtn(Any) -&gt; ()"
+                  moduleName = "GameProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/praveenkumars/Downloads/GameProject%202/Game/FourPlayerGameBoardVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "259"
+                  endingLineNumber = "259"
+                  offsetFromSymbolStart = "752">
+               </Location>
+               <Location
+                  uuid = "924A09EB-EE78-4FEF-903A-8C87F0CF0733 - 5923755175246bbb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "GameProject.FourPlayerGameBoardVC.User1DiceBtn(Any) -&gt; ()"
+                  moduleName = "GameProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/praveenkumars/Downloads/GameProject%202/Game/FourPlayerGameBoardVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "259"
+                  endingLineNumber = "259"
+                  offsetFromSymbolStart = "1040">
+               </Location>
+               <Location
+                  uuid = "924A09EB-EE78-4FEF-903A-8C87F0CF0733 - 5923755175246be5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "GameProject.FourPlayerGameBoardVC.User1DiceBtn(Any) -&gt; ()"
+                  moduleName = "GameProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/praveenkumars/Downloads/GameProject%202/Game/FourPlayerGameBoardVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "261"
+                  endingLineNumber = "261"
+                  offsetFromSymbolStart = "1372">
+               </Location>
+               <Location
+                  uuid = "924A09EB-EE78-4FEF-903A-8C87F0CF0733 - fd170c813d452a66"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "GameProject.FourPlayerGameBoardVC.User1DiceBtn(Any) -&gt; ()"
+                  moduleName = "GameProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/praveenkumars/Downloads/Current%20Game%20Project/Game/FourPlayerGameBoardVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "261"
+                  endingLineNumber = "261"
+                  offsetFromSymbolStart = "1372">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8275338F-89CF-42C3-A5F9-EAD6108B5505"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Game/FourPlayerGameBoardVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "249"
+            endingLineNumber = "249"
+            landmarkName = "User1DiceBtn(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "8275338F-89CF-42C3-A5F9-EAD6108B5505 - 5923755175246971"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "GameProject.FourPlayerGameBoardVC.User1DiceBtn(Any) -&gt; ()"
+                  moduleName = "GameProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/praveenkumars/Downloads/GameProject%202/Game/FourPlayerGameBoardVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "249"
+                  endingLineNumber = "249"
+                  offsetFromSymbolStart = "116">
+               </Location>
+               <Location
+                  uuid = "8275338F-89CF-42C3-A5F9-EAD6108B5505 - 5923755175246971"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "GameProject.FourPlayerGameBoardVC.User1DiceBtn(Any) -&gt; ()"
+                  moduleName = "GameProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/praveenkumars/Downloads/GameProject%202/Game/FourPlayerGameBoardVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "249"
+                  endingLineNumber = "249"
+                  offsetFromSymbolStart = "160">
+               </Location>
+               <Location
+                  uuid = "8275338F-89CF-42C3-A5F9-EAD6108B5505 - fd170c813d4529f2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "GameProject.FourPlayerGameBoardVC.User1DiceBtn(Any) -&gt; ()"
+                  moduleName = "GameProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/praveenkumars/Downloads/Current%20Game%20Project/Game/FourPlayerGameBoardVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "249"
+                  endingLineNumber = "249"
+                  offsetFromSymbolStart = "160">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7D8AD31B-A6AE-43F1-B503-3AB6BF40BAD8"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Game/FourPlayerGameBoardVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "255"
+            endingLineNumber = "255"
+            landmarkName = "User1DiceBtn(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "7D8AD31B-A6AE-43F1-B503-3AB6BF40BAD8 - 5923755175246a58"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "GameProject.FourPlayerGameBoardVC.User1DiceBtn(Any) -&gt; ()"
+                  moduleName = "GameProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/praveenkumars/Downloads/GameProject%202/Game/FourPlayerGameBoardVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "256"
+                  endingLineNumber = "256"
+                  offsetFromSymbolStart = "716">
+               </Location>
+               <Location
+                  uuid = "7D8AD31B-A6AE-43F1-B503-3AB6BF40BAD8 - 5923755175246a58"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "GameProject.FourPlayerGameBoardVC.User1DiceBtn(Any) -&gt; ()"
+                  moduleName = "GameProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/praveenkumars/Downloads/GameProject%202/Game/FourPlayerGameBoardVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "256"
+                  endingLineNumber = "256"
+                  offsetFromSymbolStart = "756">
+               </Location>
+               <Location
+                  uuid = "7D8AD31B-A6AE-43F1-B503-3AB6BF40BAD8 - 5923755175246a58"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "GameProject.FourPlayerGameBoardVC.User1DiceBtn(Any) -&gt; ()"
+                  moduleName = "GameProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/praveenkumars/Downloads/GameProject%202/Game/FourPlayerGameBoardVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "256"
+                  endingLineNumber = "256"
+                  offsetFromSymbolStart = "924">
+               </Location>
+               <Location
+                  uuid = "7D8AD31B-A6AE-43F1-B503-3AB6BF40BAD8 - fd170c813d452ad9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "GameProject.FourPlayerGameBoardVC.User1DiceBtn(Any) -&gt; ()"
+                  moduleName = "GameProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/praveenkumars/Downloads/Current%20Game%20Project/Game/FourPlayerGameBoardVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "256"
+                  endingLineNumber = "256"
+                  offsetFromSymbolStart = "924">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "955B7E59-C4A0-46AD-8B29-7814B466220C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Game/FourPlayerGameBoardVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "254"
+            endingLineNumber = "254"
+            landmarkName = "User1DiceBtn(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "955B7E59-C4A0-46AD-8B29-7814B466220C - 5923755175246a1e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "GameProject.FourPlayerGameBoardVC.User1DiceBtn(Any) -&gt; ()"
+                  moduleName = "GameProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/praveenkumars/Downloads/GameProject%202/Game/FourPlayerGameBoardVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "254"
+                  endingLineNumber = "254"
+                  offsetFromSymbolStart = "336">
+               </Location>
+               <Location
+                  uuid = "955B7E59-C4A0-46AD-8B29-7814B466220C - 5923755175246a1e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "GameProject.FourPlayerGameBoardVC.User1DiceBtn(Any) -&gt; ()"
+                  moduleName = "GameProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/praveenkumars/Downloads/GameProject%202/Game/FourPlayerGameBoardVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "254"
+                  endingLineNumber = "254"
+                  offsetFromSymbolStart = "380">
+               </Location>
+               <Location
+                  uuid = "955B7E59-C4A0-46AD-8B29-7814B466220C - 5923755175246a1e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "GameProject.FourPlayerGameBoardVC.User1DiceBtn(Any) -&gt; ()"
+                  moduleName = "GameProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/praveenkumars/Downloads/GameProject%202/Game/FourPlayerGameBoardVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "254"
+                  endingLineNumber = "254"
+                  offsetFromSymbolStart = "548">
+               </Location>
+               <Location
+                  uuid = "955B7E59-C4A0-46AD-8B29-7814B466220C - fd170c813d452a9f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "GameProject.FourPlayerGameBoardVC.User1DiceBtn(Any) -&gt; ()"
+                  moduleName = "GameProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/praveenkumars/Downloads/Current%20Game%20Project/Game/FourPlayerGameBoardVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "254"
+                  endingLineNumber = "254"
+                  offsetFromSymbolStart = "548">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "56F984FB-825C-415E-87DD-7F3D875545B7"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Game/FourPlayerGameBoardVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "279"
+            endingLineNumber = "279"
+            landmarkName = "bluepin1Btn(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "56F984FB-825C-415E-87DD-7F3D875545B7 - 5c72e12ae3aedc7f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "GameProject.FourPlayerGameBoardVC.bluepin1Btn(Any) -&gt; ()"
+                  moduleName = "GameProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/praveenkumars/Downloads/GameProject%202/Game/FourPlayerGameBoardVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "277"
+                  endingLineNumber = "277"
+                  offsetFromSymbolStart = "152">
+               </Location>
+               <Location
+                  uuid = "56F984FB-825C-415E-87DD-7F3D875545B7 - 5c72e12ae3aedc3d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "GameProject.FourPlayerGameBoardVC.bluepin1Btn(Any) -&gt; ()"
+                  moduleName = "GameProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/praveenkumars/Downloads/GameProject%202/Game/FourPlayerGameBoardVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "279"
+                  endingLineNumber = "279"
+                  offsetFromSymbolStart = "164">
+               </Location>
+               <Location
+                  uuid = "56F984FB-825C-415E-87DD-7F3D875545B7 - f84698faabcf9cba"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "GameProject.FourPlayerGameBoardVC.bluepin1Btn(Any) -&gt; ()"
+                  moduleName = "GameProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/praveenkumars/Downloads/Current%20Game%20Project/Game/FourPlayerGameBoardVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "279"
+                  endingLineNumber = "279"
+                  offsetFromSymbolStart = "164">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EFA1C1BE-353C-4406-9C42-130073A6277F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Game/FourPlayerGameBoardVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "286"
+            endingLineNumber = "286"
+            landmarkName = "bluepin1Btn(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "EFA1C1BE-353C-4406-9C42-130073A6277F - 5c72e12ae3aedfd8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "GameProject.FourPlayerGameBoardVC.bluepin1Btn(Any) -&gt; ()"
+                  moduleName = "GameProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/praveenkumars/Downloads/GameProject%202/Game/FourPlayerGameBoardVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "282"
+                  endingLineNumber = "282"
+                  offsetFromSymbolStart = "336">
+               </Location>
+               <Location
+                  uuid = "EFA1C1BE-353C-4406-9C42-130073A6277F - 5c72e12ae3aedffb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "GameProject.FourPlayerGameBoardVC.bluepin1Btn(Any) -&gt; ()"
+                  moduleName = "GameProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/praveenkumars/Downloads/GameProject%202/Game/FourPlayerGameBoardVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "281"
+                  endingLineNumber = "281"
+                  offsetFromSymbolStart = "336">
+               </Location>
+               <Location
+                  uuid = "EFA1C1BE-353C-4406-9C42-130073A6277F - 5c72e12ae3aedf54"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "GameProject.FourPlayerGameBoardVC.bluepin1Btn(Any) -&gt; ()"
+                  moduleName = "GameProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/praveenkumars/Downloads/GameProject%202/Game/FourPlayerGameBoardVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "286"
+                  endingLineNumber = "286"
+                  offsetFromSymbolStart = "1020">
+               </Location>
+               <Location
+                  uuid = "EFA1C1BE-353C-4406-9C42-130073A6277F - f84698faabcf9fd5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "GameProject.FourPlayerGameBoardVC.bluepin1Btn(Any) -&gt; ()"
+                  moduleName = "GameProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/praveenkumars/Downloads/Current%20Game%20Project/Game/FourPlayerGameBoardVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "286"
+                  endingLineNumber = "286"
+                  offsetFromSymbolStart = "1020">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5889E0DB-91B5-4E2B-8A0D-39F65F54FB03"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Game/FourPlayerGameBoardVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "289"
+            endingLineNumber = "289"
+            landmarkName = "bluepin1Btn(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "5889E0DB-91B5-4E2B-8A0D-39F65F54FB03 - 5c72e12ae3aedf77"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "GameProject.FourPlayerGameBoardVC.bluepin1Btn(Any) -&gt; ()"
+                  moduleName = "GameProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/praveenkumars/Downloads/GameProject%202/Game/FourPlayerGameBoardVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "285"
+                  endingLineNumber = "285"
+                  offsetFromSymbolStart = "796">
+               </Location>
+               <Location
+                  uuid = "5889E0DB-91B5-4E2B-8A0D-39F65F54FB03 - 5c72e12ae3aedf96"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "GameProject.FourPlayerGameBoardVC.bluepin1Btn(Any) -&gt; ()"
+                  moduleName = "GameProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/praveenkumars/Downloads/GameProject%202/Game/FourPlayerGameBoardVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "284"
+                  endingLineNumber = "284"
+                  offsetFromSymbolStart = "796">
+               </Location>
+               <Location
+                  uuid = "5889E0DB-91B5-4E2B-8A0D-39F65F54FB03 - 5c72e12ae3aedef3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "GameProject.FourPlayerGameBoardVC.bluepin1Btn(Any) -&gt; ()"
+                  moduleName = "GameProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/praveenkumars/Downloads/GameProject%202/Game/FourPlayerGameBoardVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "289"
+                  endingLineNumber = "289"
+                  offsetFromSymbolStart = "1476">
+               </Location>
+               <Location
+                  uuid = "5889E0DB-91B5-4E2B-8A0D-39F65F54FB03 - f84698faabcf9f70"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "GameProject.FourPlayerGameBoardVC.bluepin1Btn(Any) -&gt; ()"
+                  moduleName = "GameProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/praveenkumars/Downloads/Current%20Game%20Project/Game/FourPlayerGameBoardVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "289"
+                  endingLineNumber = "289"
+                  offsetFromSymbolStart = "1476">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0E79343D-43B3-4CC1-A09F-D755CFE2FC82"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Game/FourPlayerGameBoardVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "292"
+            endingLineNumber = "292"
+            landmarkName = "bluepin1Btn(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "0E79343D-43B3-4CC1-A09F-D755CFE2FC82 - 5c72e12ae3aedf12"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "GameProject.FourPlayerGameBoardVC.bluepin1Btn(Any) -&gt; ()"
+                  moduleName = "GameProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/praveenkumars/Downloads/GameProject%202/Game/FourPlayerGameBoardVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "288"
+                  endingLineNumber = "288"
+                  offsetFromSymbolStart = "1168">
+               </Location>
+               <Location
+                  uuid = "0E79343D-43B3-4CC1-A09F-D755CFE2FC82 - 5c72e12ae3aedf35"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "GameProject.FourPlayerGameBoardVC.bluepin1Btn(Any) -&gt; ()"
+                  moduleName = "GameProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/praveenkumars/Downloads/GameProject%202/Game/FourPlayerGameBoardVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "287"
+                  endingLineNumber = "287"
+                  offsetFromSymbolStart = "1168">
+               </Location>
+               <Location
+                  uuid = "0E79343D-43B3-4CC1-A09F-D755CFE2FC82 - 5c72e12ae3aede8e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "GameProject.FourPlayerGameBoardVC.bluepin1Btn(Any) -&gt; ()"
+                  moduleName = "GameProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/praveenkumars/Downloads/GameProject%202/Game/FourPlayerGameBoardVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "292"
+                  endingLineNumber = "292"
+                  offsetFromSymbolStart = "1848">
+               </Location>
+               <Location
+                  uuid = "0E79343D-43B3-4CC1-A09F-D755CFE2FC82 - f84698faabcf9f0f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "GameProject.FourPlayerGameBoardVC.bluepin1Btn(Any) -&gt; ()"
+                  moduleName = "GameProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/praveenkumars/Downloads/Current%20Game%20Project/Game/FourPlayerGameBoardVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "292"
+                  endingLineNumber = "292"
+                  offsetFromSymbolStart = "1848">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EB0EEB97-96A4-4027-9BED-2B72BA176922"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Game/FourPlayerGameBoardVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "296"
+            endingLineNumber = "296"
+            landmarkName = "bluepin1Btn(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "EB0EEB97-96A4-4027-9BED-2B72BA176922 - 5c72e12ae3aede8e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "GameProject.FourPlayerGameBoardVC.bluepin1Btn(Any) -&gt; ()"
+                  moduleName = "GameProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/praveenkumars/Downloads/GameProject%202/Game/FourPlayerGameBoardVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "292"
+                  endingLineNumber = "292"
+                  offsetFromSymbolStart = "1340">
+               </Location>
+               <Location
+                  uuid = "EB0EEB97-96A4-4027-9BED-2B72BA176922 - 5c72e12ae3aedeb1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "GameProject.FourPlayerGameBoardVC.bluepin1Btn(Any) -&gt; ()"
+                  moduleName = "GameProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/praveenkumars/Downloads/GameProject%202/Game/FourPlayerGameBoardVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "291"
+                  endingLineNumber = "291"
+                  offsetFromSymbolStart = "1340">
+               </Location>
+               <Location
+                  uuid = "EB0EEB97-96A4-4027-9BED-2B72BA176922 - 5c72e12ae3aede0a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "GameProject.FourPlayerGameBoardVC.bluepin1Btn(Any) -&gt; ()"
+                  moduleName = "GameProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/praveenkumars/Downloads/GameProject%202/Game/FourPlayerGameBoardVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "296"
+                  endingLineNumber = "296"
+                  offsetFromSymbolStart = "2020">
+               </Location>
+               <Location
+                  uuid = "EB0EEB97-96A4-4027-9BED-2B72BA176922 - f84698faabcf9e8b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "GameProject.FourPlayerGameBoardVC.bluepin1Btn(Any) -&gt; ()"
+                  moduleName = "GameProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/praveenkumars/Downloads/Current%20Game%20Project/Game/FourPlayerGameBoardVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "296"
+                  endingLineNumber = "296"
+                  offsetFromSymbolStart = "2020">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "39327A35-5CAE-4F3C-9723-D34C30BC38E0"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Game/FourPlayerGameBoardVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "297"
+            endingLineNumber = "297"
+            landmarkName = "bluepin1Btn(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "39327A35-5CAE-4F3C-9723-D34C30BC38E0 - 5c72e12ae3aede6f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "GameProject.FourPlayerGameBoardVC.bluepin1Btn(Any) -&gt; ()"
+                  moduleName = "GameProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/praveenkumars/Downloads/GameProject%202/Game/FourPlayerGameBoardVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "293"
+                  endingLineNumber = "293"
+                  offsetFromSymbolStart = "1532">
+               </Location>
+               <Location
+                  uuid = "39327A35-5CAE-4F3C-9723-D34C30BC38E0 - 5c72e12ae3aede8e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "GameProject.FourPlayerGameBoardVC.bluepin1Btn(Any) -&gt; ()"
+                  moduleName = "GameProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/praveenkumars/Downloads/GameProject%202/Game/FourPlayerGameBoardVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "292"
+                  endingLineNumber = "292"
+                  offsetFromSymbolStart = "1532">
+               </Location>
+               <Location
+                  uuid = "39327A35-5CAE-4F3C-9723-D34C30BC38E0 - 5c72e12ae3aed1eb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "GameProject.FourPlayerGameBoardVC.bluepin1Btn(Any) -&gt; ()"
+                  moduleName = "GameProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/praveenkumars/Downloads/GameProject%202/Game/FourPlayerGameBoardVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "297"
+                  endingLineNumber = "297"
+                  offsetFromSymbolStart = "2212">
+               </Location>
+               <Location
+                  uuid = "39327A35-5CAE-4F3C-9723-D34C30BC38E0 - f84698faabcf9e68"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "GameProject.FourPlayerGameBoardVC.bluepin1Btn(Any) -&gt; ()"
+                  moduleName = "GameProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/praveenkumars/Downloads/Current%20Game%20Project/Game/FourPlayerGameBoardVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "297"
+                  endingLineNumber = "297"
+                  offsetFromSymbolStart = "2212">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F168D295-D506-48AA-896E-4BB206D6398E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Game/FourPlayerGameBoardVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "301"
+            endingLineNumber = "301"
+            landmarkName = "bluepin1Btn(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F168D295-D506-48AA-896E-4BB206D6398E - 5c72e12ae3aede0a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "GameProject.FourPlayerGameBoardVC.bluepin1Btn(Any) -&gt; ()"
+                  moduleName = "GameProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/praveenkumars/Downloads/GameProject%202/Game/FourPlayerGameBoardVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "296"
+                  endingLineNumber = "296"
+                  offsetFromSymbolStart = "1816">
+               </Location>
+               <Location
+                  uuid = "F168D295-D506-48AA-896E-4BB206D6398E - 5c72e12ae3aede2d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "GameProject.FourPlayerGameBoardVC.bluepin1Btn(Any) -&gt; ()"
+                  moduleName = "GameProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/praveenkumars/Downloads/GameProject%202/Game/FourPlayerGameBoardVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "295"
+                  endingLineNumber = "295"
+                  offsetFromSymbolStart = "1816">
+               </Location>
+               <Location
+                  uuid = "F168D295-D506-48AA-896E-4BB206D6398E - 5c72e12ae3aed167"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "GameProject.FourPlayerGameBoardVC.bluepin1Btn(Any) -&gt; ()"
+                  moduleName = "GameProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/praveenkumars/Downloads/GameProject%202/Game/FourPlayerGameBoardVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "301"
+                  endingLineNumber = "301"
+                  offsetFromSymbolStart = "2848">
+               </Location>
+               <Location
+                  uuid = "F168D295-D506-48AA-896E-4BB206D6398E - f84698faabcf91e4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "GameProject.FourPlayerGameBoardVC.bluepin1Btn(Any) -&gt; ()"
+                  moduleName = "GameProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/praveenkumars/Downloads/Current%20Game%20Project/Game/FourPlayerGameBoardVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "301"
+                  endingLineNumber = "301"
+                  offsetFromSymbolStart = "2848">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "17972398-D62D-450F-9FEA-C680457B41B1"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Game/FourPlayerGameBoardVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "305"
+            endingLineNumber = "305"
+            landmarkName = "bluepin1Btn(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "17972398-D62D-450F-9FEA-C680457B41B1 - 5c72e12ae3aed186"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "GameProject.FourPlayerGameBoardVC.bluepin1Btn(Any) -&gt; ()"
+                  moduleName = "GameProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/praveenkumars/Downloads/GameProject%202/Game/FourPlayerGameBoardVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "300"
+                  endingLineNumber = "300"
+                  offsetFromSymbolStart = "2340">
+               </Location>
+               <Location
+                  uuid = "17972398-D62D-450F-9FEA-C680457B41B1 - 5c72e12ae3aed1a9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "GameProject.FourPlayerGameBoardVC.bluepin1Btn(Any) -&gt; ()"
+                  moduleName = "GameProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/praveenkumars/Downloads/GameProject%202/Game/FourPlayerGameBoardVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "299"
+                  endingLineNumber = "299"
+                  offsetFromSymbolStart = "2340">
+               </Location>
+               <Location
+                  uuid = "17972398-D62D-450F-9FEA-C680457B41B1 - 5c72e12ae3aed0e3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "GameProject.FourPlayerGameBoardVC.bluepin1Btn(Any) -&gt; ()"
+                  moduleName = "GameProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/praveenkumars/Downloads/GameProject%202/Game/FourPlayerGameBoardVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "305"
+                  endingLineNumber = "305"
+                  offsetFromSymbolStart = "3372">
+               </Location>
+               <Location
+                  uuid = "17972398-D62D-450F-9FEA-C680457B41B1 - f84698faabcf9160"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "GameProject.FourPlayerGameBoardVC.bluepin1Btn(Any) -&gt; ()"
+                  moduleName = "GameProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/praveenkumars/Downloads/Current%20Game%20Project/Game/FourPlayerGameBoardVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "305"
+                  endingLineNumber = "305"
+                  offsetFromSymbolStart = "3372">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CF5C22DB-DE8D-471A-AAC6-30F2CCDC55CB"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FourPlayerGameBoardVCExtension.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "108"
+            endingLineNumber = "108"
+            landmarkName = "moveBluePin1ToNextView(sender:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2925DF23-ACCA-4636-AE22-51CE0B5F97CF"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FourPlayerGameBoardVCExtension.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "114"
+            endingLineNumber = "114"
+            landmarkName = "moveBluePin1ToNextView(sender:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B0470EBC-4D9C-408B-9F4E-A5D89771ADE5"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FourPlayerGameBoardVCExtension.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "122"
+            endingLineNumber = "122"
+            landmarkName = "moveBluePin1ToNextView(sender:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3C742CD5-1916-43F6-90A3-77D809E6FD7F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FourPlayerGameBoardVCExtension.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "116"
+            endingLineNumber = "116"
+            landmarkName = "moveBluePin1ToNextView(sender:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A97EA367-E843-4E24-95CA-2EB5A5FCCF7B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FourPlayerGameBoardVCExtension.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "189"
+            endingLineNumber = "189"
+            landmarkName = "findNextViewforBluePinInStack(tag:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BFEB215A-C8C7-4195-84C2-49982CA920A7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FourPlayerGameBoardVCExtension.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "193"
+            endingLineNumber = "193"
+            landmarkName = "findNextViewforBluePinInStack(tag:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "BFEB215A-C8C7-4195-84C2-49982CA920A7 - ad6757c61b9d0361"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "GameProject.FourPlayerGameBoardVC.findNextViewforBluePinInStack(tag: Swift.Int) -&gt; Swift.Optional&lt;__C.UIView&gt;"
+                  moduleName = "GameProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/praveenkumars/Downloads/GameProject%202/FourPlayerGameBoardVCExtension.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "183"
+                  endingLineNumber = "183"
+                  offsetFromSymbolStart = "280">
+               </Location>
+               <Location
+                  uuid = "BFEB215A-C8C7-4195-84C2-49982CA920A7 - ad6757c61b9d0361"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "GameProject.FourPlayerGameBoardVC.findNextViewforBluePinInStack(tag: Swift.Int) -&gt; Swift.Optional&lt;__C.UIView&gt;"
+                  moduleName = "GameProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/praveenkumars/Downloads/GameProject%202/FourPlayerGameBoardVCExtension.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "183"
+                  endingLineNumber = "183"
+                  offsetFromSymbolStart = "628">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E14933BB-BA68-41D6-9ECC-C3BBB87977C0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FourPlayerGameBoardVCExtension.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "195"
+            endingLineNumber = "195"
+            landmarkName = "findNextViewforBluePinInStack(tag:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8AAE69FC-3115-46A2-92A3-6450CAE5F98E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Game/FourPlayerGameBoardVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "309"
+            endingLineNumber = "309"
+            landmarkName = "bluepin1Btn(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "8AAE69FC-3115-46A2-92A3-6450CAE5F98E - 5c72e12ae3aed125"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "GameProject.FourPlayerGameBoardVC.bluepin1Btn(Any) -&gt; ()"
+                  moduleName = "GameProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/praveenkumars/Downloads/GameProject%202/Game/FourPlayerGameBoardVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "303"
+                  endingLineNumber = "303"
+                  offsetFromSymbolStart = "2400">
+               </Location>
+               <Location
+                  uuid = "8AAE69FC-3115-46A2-92A3-6450CAE5F98E - 5c72e12ae3aed05f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "GameProject.FourPlayerGameBoardVC.bluepin1Btn(Any) -&gt; ()"
+                  moduleName = "GameProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/praveenkumars/Downloads/GameProject%202/Game/FourPlayerGameBoardVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "309"
+                  endingLineNumber = "309"
+                  offsetFromSymbolStart = "3432">
+               </Location>
+               <Location
+                  uuid = "8AAE69FC-3115-46A2-92A3-6450CAE5F98E - f84698faabcf90dc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "GameProject.FourPlayerGameBoardVC.bluepin1Btn(Any) -&gt; ()"
+                  moduleName = "GameProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/praveenkumars/Downloads/Current%20Game%20Project/Game/FourPlayerGameBoardVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "309"
+                  endingLineNumber = "309"
+                  offsetFromSymbolStart = "3432">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "34A85E1C-99DC-4B6C-9836-225FB73DBC5A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FourPlayerGameBoardVCExtension.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "handleBlue1PinMovement(sender:movedVariable:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "34A85E1C-99DC-4B6C-9836-225FB73DBC5A - b7a9aa1ea5613e6f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "GameProject.FourPlayerGameBoardVC.handleBlue1PinMovement(sender: __C.UIButton, movedVariable: inout Swift.Bool) -&gt; ()"
+                  moduleName = "GameProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/praveenkumars/Downloads/GameProject%202/FourPlayerGameBoardVCExtension.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "1612">
+               </Location>
+               <Location
+                  uuid = "34A85E1C-99DC-4B6C-9836-225FB73DBC5A - b7a9aa1ea5613e6f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "GameProject.FourPlayerGameBoardVC.handleBlue1PinMovement(sender: __C.UIButton, movedVariable: inout Swift.Bool) -&gt; ()"
+                  moduleName = "GameProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/praveenkumars/Downloads/GameProject%202/FourPlayerGameBoardVCExtension.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "1244">
+               </Location>
+               <Location
+                  uuid = "34A85E1C-99DC-4B6C-9836-225FB73DBC5A - 2bf9cf0d8fd73d51"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "GameProject.FourPlayerGameBoardVC.handleBlue1PinMovement(sender: __C.UIButton, movedVariable: inout Swift.Bool) -&gt; ()"
+                  moduleName = "GameProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/praveenkumars/Downloads/Current%20Game%20Project/FourPlayerGameBoardVCExtension.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "1244">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2DCDB955-1912-487A-81BF-77731DA9AD26"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Game/GameBoardVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "311"
+            endingLineNumber = "311"
+            landmarkName = "imageview1Btn(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "18DBC5BD-60FD-4C1A-972C-27A6D7127DAD"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Game/GameBoardVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "631"
+            endingLineNumber = "631"
+            landmarkName = "imageview2Btn(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "90C4A403-2F8F-490A-AFC6-65906248C3AD"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Game/GameBoardVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "322"
+            endingLineNumber = "322"
+            landmarkName = "imageview1Btn(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EFED7D13-6ECA-4084-BC1D-0131F8CF66AD"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Game/GameBoardVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "334"
+            endingLineNumber = "334"
+            landmarkName = "imageview1Btn(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C1EA2A7E-1F14-4559-AF06-918E281A503C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Game/GameBoardExtension.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "149"
+            endingLineNumber = "149"
+            landmarkName = "moveGreenPin1ToNextView(sender:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BBF4FC0C-01C2-4814-8740-79CFCB71A23B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Game/GameBoardExtension.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "523"
+            endingLineNumber = "523"
+            landmarkName = "findNextViewforGreenPinInStack(tag:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

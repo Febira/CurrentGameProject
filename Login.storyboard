@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="22155" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="xCi-AG-7zr">
+    <device id="retina5_9" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="22131"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="System colors in document resources" minToolsVersion="11.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--LoginVC-->
+        <scene sceneID="s0d-6b-0kx">
+            <objects>
+                <viewController storyboardIdentifier="LoginVC" useStoryboardIdentifierAsRestorationIdentifier="YES" id="Y6W-OH-hqX" customClass="LoginVC" customModule="GameProject" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="5EZ-qb-Rvc">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="812"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="iuE-kc-KUJ">
+                                <rect key="frame" x="0.0" y="0.0" width="375" height="812"/>
+                                <subviews>
+                                    <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="Ludo Login Bg" translatesAutoresizingMaskIntoConstraints="NO" id="9mL-sL-vEp">
+                                        <rect key="frame" x="0.0" y="0.0" width="375" height="812"/>
+                                    </imageView>
+                                    <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="Logo" translatesAutoresizingMaskIntoConstraints="NO" id="dML-An-fik">
+                                        <rect key="frame" x="76.666666666666686" y="261" width="222" height="124.66666666666669"/>
+                                        <constraints>
+                                            <constraint firstAttribute="width" constant="222" id="OG2-5N-Ld1"/>
+                                            <constraint firstAttribute="height" constant="124.67" id="ThQ-RF-a5e"/>
+                                        </constraints>
+                                    </imageView>
+                                </subviews>
+                                <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                                <constraints>
+                                    <constraint firstAttribute="bottom" secondItem="9mL-sL-vEp" secondAttribute="bottom" id="9ly-Eu-RsY"/>
+                                    <constraint firstItem="dML-An-fik" firstAttribute="centerY" secondItem="iuE-kc-KUJ" secondAttribute="centerY" constant="-82.666666666666629" id="Jlq-4T-YJr"/>
+                                    <constraint firstItem="9mL-sL-vEp" firstAttribute="leading" secondItem="iuE-kc-KUJ" secondAttribute="leading" id="WEL-4C-xch"/>
+                                    <constraint firstAttribute="trailing" secondItem="9mL-sL-vEp" secondAttribute="trailing" id="gVE-Pf-Sai"/>
+                                    <constraint firstItem="dML-An-fik" firstAttribute="centerX" secondItem="iuE-kc-KUJ" secondAttribute="centerX" id="uV7-Zz-TbE"/>
+                                    <constraint firstItem="9mL-sL-vEp" firstAttribute="top" secondItem="iuE-kc-KUJ" secondAttribute="top" id="uwG-UO-540"/>
+                                </constraints>
+                            </view>
+                        </subviews>
+                        <viewLayoutGuide key="safeArea" id="vDu-zF-Fre"/>
+                        <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <constraints>
+                            <constraint firstItem="iuE-kc-KUJ" firstAttribute="trailing" secondItem="vDu-zF-Fre" secondAttribute="trailing" id="DbM-Zq-IO0"/>
+                            <constraint firstItem="iuE-kc-KUJ" firstAttribute="leading" secondItem="vDu-zF-Fre" secondAttribute="leading" id="GtC-2M-aiD"/>
+                            <constraint firstItem="iuE-kc-KUJ" firstAttribute="top" secondItem="5EZ-qb-Rvc" secondAttribute="top" id="HUH-aV-U0k"/>
+                            <constraint firstAttribute="bottom" secondItem="iuE-kc-KUJ" secondAttribute="bottom" id="iQA-Pq-Nce"/>
+                        </constraints>
+                    </view>
+                    <navigationItem key="navigationItem" id="zzk-nm-p4x"/>
+                    <connections>
+                        <outlet property="CommonView" destination="iuE-kc-KUJ" id="Snl-IP-p8A"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="Ief-a0-LHa" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="1973.2824427480916" y="-35.211267605633807"/>
+        </scene>
+        <!--Navigation Controller-->
+        <scene sceneID="Q1u-IZ-OeP">
+            <objects>
+                <navigationController automaticallyAdjustsScrollViewInsets="NO" id="xCi-AG-7zr" sceneMemberID="viewController">
+                    <toolbarItems/>
+                    <navigationBar key="navigationBar" contentMode="scaleToFill" id="O5x-rL-pbM">
+                        <rect key="frame" x="0.0" y="50" width="375" height="44"/>
+                        <autoresizingMask key="autoresizingMask"/>
+                    </navigationBar>
+                    <nil name="viewControllers"/>
+                    <connections>
+                        <segue destination="Y6W-OH-hqX" kind="relationship" relationship="rootViewController" id="j0k-LI-hNN"/>
+                    </connections>
+                </navigationController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="D67-Ii-dAH" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="1046.5648854961833" y="-35.211267605633807"/>
+        </scene>
+    </scenes>
+    <resources>
+        <image name="Logo" width="222" height="124.66666412353516"/>
+        <image name="Ludo Login Bg" width="120" height="240"/>
+        <systemColor name="systemBackgroundColor">
+            <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+        </systemColor>
+    </resources>
+</document>
